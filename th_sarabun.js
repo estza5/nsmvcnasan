@@ -1,0 +1,2 @@
+/* This file is intentionally left blank. 
+   Please download the correct font file from a trusted source or a font converter for jsPDF. */
